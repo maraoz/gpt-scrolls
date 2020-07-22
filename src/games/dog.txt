@@ -1,0 +1,24 @@
+AI-based Digital Pet Game
+You own a digital dog which you can interact and take care of. Try it out!
+
+Name your dog: Max
+OK! Your dog is called Max. He's a cute Shiba Inu puppy!
+
+Life: 100 - Hunger: 0 - Energy: 100 - Happiness: 50 - Description: Max looks bored.
+
+Action: Play
+Life: 100 - Hunger: 10 - Energy: 80 - Happiness: 75 - Description: Max looks happy and is wagging his tail.
+
+Action: Pet and cuddle
+Life: 100 - Hunger: 20 - Energy: 70 - Happiness: 85 - Description: Max is calm and happy.
+
+Action: Go to the park
+Life: 100 - Hunger: 30 - Energy: 30 - Happiness: 120 - Description: Max looks excited after running around in the park and sniffing other dogs. 
+
+Action: Play at home
+Life: 100 - Hunger: 40 - Energy: 10 - Happiness: 100 - Description: Max looks happy but sleepy.
+
+Action: Sleep
+Life: 100 - Hunger: 50 - Energy: 100 - Happiness: 50 - Description: Max wakes up after a 2 hour nap and is ready to go again.
+
+Action: 

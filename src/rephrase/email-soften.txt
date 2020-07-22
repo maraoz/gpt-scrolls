@@ -1,0 +1,77 @@
+- Original: “I told you..... We won’t be able to finish the work until December 1.”
+- Toned down: “We will be able to finish the work by December 1”
+
+- Original: "PLEASE FIND THE REPORT ATTACHED."
+- Toned down: "Please find the report attached."
+
+- Original: "Here are these months metrics:" 
+- Toned down: "Here are these months metrics:”
+
+- Original: "Tell Mark to get the team together for a fucking planning session" 
+- Toned down: "Kindly ask Mark to bring the team together for a planning session"
+
+- Original: "Stop fucking sending me emails. I hate it."
+- Toned down: "Do not send me emails"
+
+- Original: "I need to talk to you ASAP, call me"
+- Toned down: "Kindly contact me when you read this, it's urgent."
+
+- Original: "As you can read in my previous email, I already told you that we won't be able to make it."
+- Toned down: "There might be a misunderstanding. Unfortunately, I don't think we'll be able to make it this time."
+
+- Original: "HEY MARK! Pls send tomorrow's presentation ASAP. I need to work on it tonight. Thx."
+- Toned down: "Mark, please send tomorrow's presentation as soon as possible. I need to work on it tonight.
+
+- Original: "Your answer is a b.s. The phone is no good! Return the money! -Return the money! I'm not paying for this phone! -You are the worst company I've ever dealt with!"
+- Toned down: "The phone is not working for me. I'd like to request a refund, if that's possible. Thanks."
+
+- Original: "What the fuck man?! What is going on?! Why didn't anyone tell me?"
+- Toned down: "I just saw the message. I'm sorry that I didn't get the email sooner. It's hard to read every message, but I will make sure to check my emails more often."
+
+- Original: "OK, I just filled out the form. Why don't you just answer here, though? I'm sending the email from the correct account, and you have the order number...
+I think Google Support is just wasting my time because you don't have an answer. My question is simple: Why didn't you give me a refund for the phone I paid for but I never received? I just got an empty reply saying it was a "specialist decision", which is totally unacceptable."
+- Toned down: "When I paid for the phone, the vendor said he would ship it immediately. The money hasn't been refunded yet, and I don't know why. I would like to get my money back. I already submitted the form as you requested. "
+
+- Original: "I've been a Google customer for 10+ years, I'm still paying you guys for Google One, Google Fi, I bought ~7 phones over the past years, I can't believe this is how you treat a long-time customer!!"
+- Toned down: "I am not happy about this. What can we do to fix it?"
+
+- Original: "Hey man, that's not cool! I told you not to send the email without asking me first. Call me as soon as you see this, you really fucked up this time........"
+- Toned down: "Hi. I got the message, but I don't think this email is appropriate. Can we discuss it in person?"
+
+- Original: "Hey, can I meet you for a couple of minutes before your meeting? I know you're busy and I know you don't like to be disturbed, but I have something very important to discuss."
+- Toned down: "Hey, can I meet you for a couple of minutes before your meeting? I know you're busy and I know you don't like to be disturbed, but I have something very important to discuss."
+
+- Original: "I need to understand where you are with this...."
+- Toned down: "I need to understand where you are with this."
+
+- Original: "How do I get my refunds? Why aren't they showing up in my accounts? I don't understand!"
+- Toned down: "When will I get my refund?"
+
+- Original: "Are you kidding me? I already gave you that!!! This is idiotic... WORST CUSTOMER SUPPORT EXPERIENCE "
+- Toned down: "Can you help me?"
+
+- Original: "Hey, did you check my account? I was thinking about taking some of my money out."
+- Toned down: "Hi, could you check my account, I was thinking about taking some of my money out."
+
+- Original: "Ivonne, can I get a raise? I'm the worst paid team-member" 
+- Toned down: "Hello, I was wondering if you could give me a raise. I've done a lot of work, and I'm happy with my performance. I think I deserve more."
+
+- Original: "Hey Team! Please find attached tomorrow's meeting brief." 
+- Toned down: "Hey Team! Please find attached tomorrow's meeting brief."
+
+- Original: "Go fuck yourself"
+- Toned down: ""
+
+- Original: "This is the last time I tell you this: DON'T PUSH TO GITHUB BEFORE HAVING SOMEONE REVIEW THE CODE!"
+- Toned down: "Please don't push to GitHub before you have someone review the code. "
+
+- Original: "It was great seeing you and Amanda! Keep it up!"
+- Toned down: "It was great seeing you and Amanda!  Keep it up!"
+
+- Original: "I hate you and I quit! Fuck this company"
+- Toned down: ""
+
+- Original: "I can't believe you moved the meeting and didn't tell me! Now I can't make it, so sorry, we'll have to find another time that works for me."
+- Toned down: "I was surprised to find out that the meeting was moved, so I can't make it today. What time can we schedule the meeting?"
+
+- Original: 

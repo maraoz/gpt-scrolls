@@ -1,0 +1,25 @@
+🔡Alliteration Generator
+🌈Emoji Color Generation
+🌐React Components Generator
+♟️Play Chess
+🎒Cover Letter Generator
+🧠Analogies Generator
+🎵Song Generation
+🎼Text→MIDI Generator
+📸Instagram Description Generator
+📔Poem Generator
+🔮Text→Emoji Generator
+🍄Storytelling
+🎞️Film Scripts
+🆎Q&amp;A
+📝Answer questions on a piece of text
+❓Multiple Choice Question Distractor Generator
+🔬Complex Concept Learning
+🔍Classification
+💬Chatbot
+📊Parse Unstructured Data
+📚Summarization
+🗣️Spellcheck &amp; Capitalization
+💻Text→Bash
+💾Code Translation
+🐍 Python Palindrome

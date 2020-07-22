@@ -1,0 +1,38 @@
+X:1
+T:The Legacy Jig
+M:6/8
+L:1/8
+R:jig
+K:G
+GFG BAB | gfg gab | GFG BAB | d2A AFD |
+GFG BAB | gfg gab | age edB |1 dBA AFD :|2 dBA ABd |:
+efe edB | dBA ABd | efe edB | gdB ABd |
+efe edB | d2d def | gfe edB |1 dBA ABd :|2 dBA AFD |] X:2
+
+X:2
+T:Whitby Pier
+C:trad. arr. Robin Garside
+Z:ABC version by Jack Campin
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A|"D"F2A d2e|   fed    cBA|"G" BdB "D" AFD|   FAF "A"E2
+A|"D"F2A d2e|   fed    cBA|"Em"Bgf "A" edc|"D"d3     d2:|
+g|"D"faf d2f|"G"gbg    e2g|"D" fed     faf|"A"ecA    A2
+g|"D"faf d2f|"G"bag "D"fed|"Em"Bgf "A7"edc|"D"d3     d2:|
+
+X: 3
+T: Cooley's
+M: 4/4
+L: 1/8
+R: reel
+K: Emin
+|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|
+EBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|
+|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|
+eB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|
+
+
+X: 4
+T:

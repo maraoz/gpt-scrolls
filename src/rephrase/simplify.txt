@@ -1,0 +1,13 @@
+Complex: A black hole is a region of spacetime where gravity is so strong that nothing—no particles or even electromagnetic radiation such as light—can escape from it. The theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole. The boundary of the region from which no escape is possible is called the event horizon. Although the event horizon has an enormous effect on the fate and circumstances of an object crossing it, according to general relativity it has no locally detectable features. In many ways, a black hole acts like an ideal black body, as it reflects no light. Moreover, quantum field theory in curved spacetime predicts that event horizons emit Hawking radiation, with the same spectrum as a black body of a temperature inversely proportional to its mass. This temperature is on the order of billionths of a kelvin for black holes of stellar mass, making it essentially impossible to observe.
+
+Short & Simple: A black hole is a region of space from which nothing can escape, according to the general theory of relativity, it is the result of the curving of spacetime caused by a huge mass. Around a black hole there is a position of no return, called the event horizon. It is called "black" because it absorbs all the light that hits it, reflecting nothing, just like a perfect black body in thermodynamics.
+
+
+Complex: Nihilism (/ˈnaɪ(h)ɪlɪzəm, ˈniː-/; from Latin: nihil, lit. 'nothing') is the philosophical view that all knowledge and values are baseless; that is, all knowledge lacks a certain basis and all values are subjective. Most commonly, nihilism is presented in the form of existential nihilism, in which life is believed to be without objective meaning, purpose, or intrinsic value. Moral nihilists assert that morality does not exist at all. Nihilism may also take epistemological, ontological, or metaphysical forms, whereby, respectively, knowledge is not possible, or reality does not actually exist.
+
+Short & Simple: Nihilism comes from the Latin nihil, or nothing. It is the belief that values are falsely invented. The term 'nihilism' can also be used to describe the idea that life, or the world, has no distinct meaning or purpose. Nihilists believe that there are no true morals. Many people think of the German philosopher Friedrich Nietzsche when they think about nihilism, because he said that morals were invented. But in his books, Nietzsche said that people needed to create their own morals to get over nihilism.
+
+
+Complex: [insert complex text here]
+
+Short & Simple:
