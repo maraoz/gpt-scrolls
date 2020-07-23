@@ -1,0 +1,15 @@
+Neural networks are like genetic algorithms in that both are systems that learn from experience.
+
+Social media is like a market in that both are systems that coordinate the actions of many individuals.
+
+A2E is like lipofuscin in that both are byproducts of the normal operation of a system.
+
+Haskell is like LISP in that both are functional languages.
+
+Quaternions are like matrices in that both are used to represent rotations in 
+three dimensions.
+
+Quaternions are like octonions in that both are examples of non-commutative 
+algebra.
+
+Memes are like viruses in that
