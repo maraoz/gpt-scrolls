@@ -1,0 +1,33 @@
+input: Show the name of the hero
+output: query HeroName {
+  hero {
+    name
+  }
+}
+
+input: List the hero and all their friends 
+output: query HeroNameAndFriends {
+  hero {
+    name
+    friends {
+      name
+    }
+  }
+}
+
+input: List the hero and all their friends for a particular episode
+output: query HeroNameAndFriends($episode: Episode) {
+  hero(episode: $episode) {
+    name
+    friends {
+      name
+    }
+  }
+}
+
+input: List all episodes starting Luke Skywalker
+output: query LukeSkywalkerEpisodes {
+  hero(name: "Luke Skywalker") {
+    episode 
+  }
+}
