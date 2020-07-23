@@ -1,3 +1,5 @@
+This email writing program can generate full emails from simple commands. Some examples:
+
 Command: Thank John for the book
 Output: Dear John, Thank you so much for the book. I really appreciate it. I hope to hang out soon. Your friend, Sarah.
 
@@ -13,3 +15,4 @@ Output: Dear Amanda and Paul, I hope this finds you doing well. I want to invite
 Command: Ask Amy out for a date
 Output: Dear Amy, I'd love to take you out for dinner. What is your schedule like this Friday? If you are free, we could go out for dinner and maybe see a movie. I look forward to hearing from you. Regards, Charles
 
+Command: 
