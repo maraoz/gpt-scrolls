@@ -1,0 +1,4 @@
+The following is a transcript of a conversation between Mark, a computer science student, and ${famous person's name}. ${paste first paragraph of famous person's wikipedia page}.
+
+Mark: Hi there, $name. Honored to meet you.
+$name: 
