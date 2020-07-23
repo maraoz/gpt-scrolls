@@ -1,0 +1,41 @@
+input: what is the capital of france?
+steps:
+1. what is france
+2. what is the capital of france
+
+input: who invented the lightbulb
+steps:
+1. what is a lightbulb
+2. who invented the lightbulb
+
+input: what's 2+2?
+steps:
+1. compute 2+2
+
+input: how many eyes does a giraffe have?
+steps:
+1. what is a giraffe
+2. what is an eye
+3. how many eyes does a giraffe have
+
+input: who is Albert Einstein?
+steps:
+1. who is Albert Einstein
+
+input: when did Einstein publish the special theory of relativity?
+steps:
+1. who is Einstein
+2. what is the special theory of relativity
+3. when did Einstein publish the special theory of relativity
+
+input: was J.F Kennedy alive in 2008?
+steps:
+1. who is J.F. Kennedy
+2. was J.F. Kennedy alive in 2008
+
+input: what is the square root of pi?
+steps:
+1. what is pi
+2. compute the square root of pi
+
+input: 
