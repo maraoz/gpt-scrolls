@@ -40,3 +40,11 @@ Top 10 most important women in human history, and their greatest achievements:
 
 10. ~~~Elizabeth I
 ```
+
+## Design goals
+gpt-scroll prompts should aim to be:
+- effective: they should reliably produce desired classes of outpupts
+- efficient: they should be as short as possible
+- safe: they should minimize appearance of toxic/harmful output
+
+Have this in mind for any contribution. (eg: if you find that a prompt works equally well without one example, you might submit a PR to remove that example, citing efficiency)
