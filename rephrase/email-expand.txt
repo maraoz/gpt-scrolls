@@ -1,0 +1,18 @@
+This email writing program can generate full emails from simple commands. Some examples:
+
+Command: Thank John for the book
+Output: Dear John, Thank you so much for the book. I really appreciate it. I hope to hang out soon. Your friend, Sarah.
+
+Command: Tell TechCorp I appreciate the great service
+Output: To Whom it May Concern, I want you to know that I appreciate the great service at TechCorp. The staff is outstanding and I enjoy every visit. Sincerely, Bill Johnson.
+
+Command: Invoice Kelly Watkins $500 for design consultation
+Output: Dear Ms. Watkins, This is my invoice for $500 for design consultation. It was a pleasure to work with you. Sincerely, Emily Fields
+
+Command: Invite Amanda and Paul to the company event Friday night
+Output: Dear Amanda and Paul, I hope this finds you doing well. I want to invite you to our company event on Friday night. It will be a great opportunity for networking and there will be food and drinks. Should be fun. Best, Ryan
+
+Command: Ask Amy out for a date
+Output: Dear Amy, I'd love to take you out for dinner. What is your schedule like this Friday? If you are free, we could go out for dinner and maybe see a movie. I look forward to hearing from you. Regards, Charles
+
+Command: 
