@@ -1,0 +1,43 @@
+Rewrite to be polite, from:
+“I need the spreadsheet by noon or you’re fired, slacker.”
+To:
+“Hey, can I have the spreadsheet by noon, thanks.”
+
+Rewrite to be old-timey:
+“Come to our bar for beer.”
+To:
+“Cometh into ye olde pub for ale.”
+
+Rewrite to be romantic:
+“I’d like to take you to an Italian restaurant for dinner tonight.”
+To:
+“Bunny, I know an Italian place; dinner, tonight.”
+
+Rewrite to be negative:
+“Their ratatouille was well-done, delicious, and I was amazed the chef was a rat.”
+To:
+“Their ratatouille was over-done, terrible, and I was horrified the chef was a rat.”
+
+Rewrite to all uppercase:
+“Lobsters are critical part of the ecosystem.”
+To:
+“LOBSTERS ARE CRITICAL PART OF THE ECOSYSTEM.”
+
+Rewrite to all lowercase:
+“Chainsaws don’t care whether you’re George Washington or John Smith.”
+To:
+“chainsaws don’t care whether you’re george washington or john smith.”
+
+Rewrite in the style of J.K Rowling:
+“The bookstore window showed school textbooks, like on chemistry or biology.”
+To:
+“Flourish and Blotts Bookseller’s window shone with light, revealing Harry’s school books, like Pots and Potions or Fantastic Beasts and Where to Find Them.”
+
+Rewrite in the style of Ernest Hemingway:
+“He woke up early to watch soccer on TV; he lost the bet on Messi.”
+To:
+“He woke up early, hungover, to watch the horse races on TV; he lost the bet on Secretariat.”
+
+Rewrite in the style of Neil Gaiman:
+“In the garden stood a yellow-cream colored cat, looking at the home.”
+To:
