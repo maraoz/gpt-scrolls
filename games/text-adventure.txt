@@ -1,0 +1,25 @@
+This is a text adventure. You are in a dark forest, looking for the dragon that stole your town's gold.
+ 
+> look around
+You are in a dark forest. There is an uneasy quiet.
+ 
+> check inventory
+You have the following items:
+- a sword (very sharp)
+- a shield (you hope it works)
+- an old letter
+ 
+> read letter
+"Dear knight: You should have reached this forest, if you followed the road. I hope you haven't strayed.
+
+Now there is a dragon that lives in this forest. It came yesterday. Now it lives under an oak. You will find its gold there.
+
+But please, take good care of the dragon. Don't harm it. You must leave it be. No matter how much you want the gold.
+
+I will be watching you, knight.
+
+With love,
+
+Your Queen."
+
+> 
