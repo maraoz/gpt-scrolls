@@ -1,0 +1,5 @@
+.scrolls-dev-env/
+build/
+dist/
+gpt_scrolls.egg-info/
+
