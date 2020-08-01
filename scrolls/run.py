@@ -2,7 +2,7 @@ import openai
 import os
 import json
 from collections import namedtuple
-
+import sys
 
 
 SCROLLS_DIR = os.path.dirname(os.path.realpath(__file__))
@@ -21,6 +21,14 @@ def run(name):
     return response.choices[0].text
 
 
+
 if __name__ == "__main__":
     import sys
     print(run(sys.argv[1]))
+
+class run_callable:
+    def __call__(self, name):
+        return run(name)
+
+
+sys.modules[__name__] = run_callable()
