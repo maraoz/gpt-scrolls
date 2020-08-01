@@ -29,4 +29,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
+    install_requires=[
+        "openai>=0.2.4,<1.0.0"
+    ]
 )
