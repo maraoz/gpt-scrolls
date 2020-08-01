@@ -18,6 +18,8 @@ $ python -c "import scrolls; print(scrolls.run('creative/business-ideas'))"
 Last Mile - Same day delivery service that picks and takes out the trash and delivers
 ```
 
+[Browse all the available scrolls](https://github.com/maraoz/gpt-scrolls/tree/master/scrolls).
+
 ## Running scrolls in your own app
 ```python
 import scrolls
