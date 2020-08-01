@@ -7,7 +7,7 @@ Feel free to contribute your prompts!
 ## Getting Started
 To use gpt-scrolls, you'll need access to the OpenAI API. If you haven't, [sign up for the beta](http://beta.openai.com/).
 
-```
+```sh
 $ pip install gpt-scrolls
 $ export OPENAI_API_KEY=...
 $ python -c "import scrolls; print(scrolls.run('creative/philosopher'))"
@@ -19,7 +19,7 @@ Last Mile - Same day delivery service that picks and takes out the trash and del
 ```
 
 ## Running scrolls in your own app
-```
+```python
 import scrolls
 
 idea = scrolls.run('creative/business-ideas')
@@ -29,7 +29,7 @@ print(idea)
 ## Running locally
 If you want to use gpt-scrolls without `pip` by cloning the repo:
 
-```
+```sh
 $ git clone git@github.com:maraoz/gpt-scrolls.git
 $ cd gpt-scrolls/
 $ python3 -m venv .scrolls-env
