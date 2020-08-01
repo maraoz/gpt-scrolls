@@ -13,6 +13,7 @@ from version import VERSION
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
+
 setuptools.setup(
     name=NAME,
     version=VERSION,
@@ -33,6 +34,6 @@ setuptools.setup(
         "openai>=0.2.4,<1.0.0"
     ],
     package_data={
-        "": ["*.txt", "*.json"],
+        "": ["**/*.txt", "**/*.json"],
     },
 )
